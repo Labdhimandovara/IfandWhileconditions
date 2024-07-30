@@ -15,6 +15,7 @@ int main()
         cout<<"It is a negative number.";
     }
 }
+//OUTPUT
 /*Enter a number: 55
 It is a positive number.
 
