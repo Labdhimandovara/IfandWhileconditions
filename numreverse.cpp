@@ -14,6 +14,7 @@ int main() {
   }
     return 0;
 }
+//OUTPUT
 /* Enter  a number to reverse: 
 23454
 4
