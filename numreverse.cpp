@@ -14,3 +14,11 @@ int main() {
   }
     return 0;
 }
+/* Enter  a number to reverse: 
+23454
+4
+5
+4
+3
+2
+*/
