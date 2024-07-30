@@ -26,7 +26,7 @@ int main()
         cout<<"It is in 4th quadrant";
     }
 }
-
+//OUTPUT
 /*Enter a number: 5
 Enter a number: -5
 It is in 4th quadrant
