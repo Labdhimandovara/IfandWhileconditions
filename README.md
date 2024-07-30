@@ -1,4 +1,5 @@
 Aim: To study and implement operators in c++
+
 Theory: Operators in C++ are symbols or keywords used to perform operations on data, enabling tasks like arithmetic, comparisons, and logical evaluations. They are categorized into several types:
 
 -Arithmetic Operators: Used for basic math operations, including +, -, *, /, and %.
